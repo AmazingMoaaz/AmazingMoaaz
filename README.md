@@ -132,5 +132,3 @@
 
 ---
 <img src="https://raw.githubusercontent.com/AmazingMoaaz/AmazingMoaaz/output/snake.svg" alt="Snake animation" />
-
-###  
