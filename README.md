@@ -4,9 +4,10 @@
 
 <div align="center">
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&center=true&width=600&lines=Cybersecurity+is+not+optional.;Hackers+don’t+break+in,+they+log+in.;Security+is+everyone’s+responsibility.;Think+before+you+click.;The+only+secure+system+is+one+that+is+off.">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&center=true&width=600&lines=Cybersecurity+is+not+optional.;Hackers+don’t+break+in,+they+log+in.;Security+is+everyone’s+responsibility.;Think+before+you+click.;The+only+secure+system+is+one+that+is+off.">
   </p>
 </div>
+
 
 ###
 
