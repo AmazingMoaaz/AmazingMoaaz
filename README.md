@@ -2,21 +2,17 @@
 
 ###
 
-<br clear="both">
+<div align="center">
+  <p>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&center=true&width=600&lines=Cybersecurity+is+not+optional.;Hackers+don’t+break+in,+they+log+in.;Security+is+everyone’s+responsibility.;Think+before+you+click.;The+only+secure+system+is+one+that+is+off.">
+  </p>
+</div>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AmazingMoaaz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmazingMoaaz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Junior+Security+Specialist;Jr+Penetration+Tester;Security+Enthusiast&center=true&width=380&height=50">
-  </p>
 </div>
 
 <hr/>
