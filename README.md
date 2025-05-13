@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! i'm Moaaz -- Jr Pentration Tester</h2>
+<h2 align="left">Hi 👋! i'm Moaaz - Jr Pentration Tester</h2>
 
 ###
 
