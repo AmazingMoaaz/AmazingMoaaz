@@ -131,12 +131,11 @@
 ![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC)
 
 ---
-<div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=AmazingMoaaz&icon=10&color=6)](https://visitcount.itsvg.in)
+###
 
-</div>
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/AmazingMoaaz/AmazingMoaaz/output/snake.svg" alt="Snake animation" />
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+###  
