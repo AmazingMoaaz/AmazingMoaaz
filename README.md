@@ -131,7 +131,6 @@
 ![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC)
 
 ---
-
 ###
 
 <br clear="both">
