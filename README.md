@@ -157,10 +157,10 @@
       <img src="https://img.shields.io/github/stars/AmazingMoaaz?style=for-the-badge&logo=github&logoColor=white&label=Exploits&labelColor=161b22&color=00d4ff&affiliations=OWNER" alt="Total Stars"/>
       <img src="https://img.shields.io/badge/Reconnaissance-Active-00ff41?style=for-the-badge&logo=eye&logoColor=white&labelColor=161b22" alt="Profile Views"/>
       <img src="https://img.shields.io/badge/Security%20Level-MAXIMUM-00d4ff?style=for-the-badge&logo=shield&logoColor=white&labelColor=161b22" alt="Security Level"/>
-    </div>
-    
-    <br/>
-    
+</div>
+
+<br/>
+
     <!-- Epic Animated Divider -->
     <div align="center">
       <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Line"/>
@@ -169,7 +169,7 @@
     <!-- Backup Analytics (Reliable Fallbacks) -->
     <details>
     <summary><h4>🔧 Backup Analytics Dashboard</h4></summary>
-    <div align="center">
+<div align="center">
       <br/>
       <!-- Simple, Reliable Stats -->
       <img src="https://github-readme-stats.vercel.app/api?username=AmazingMoaaz&show_icons=true&theme=dark" alt="Simple Stats"/>
@@ -346,17 +346,30 @@
 <div align="center">
   <h2>🐍 The Matrix Has You...</h2>
   
-  <!-- Primary Snake Animation -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmazingMoaaz/AmazingMoaaz/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmazingMoaaz/AmazingMoaaz/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AmazingMoaaz/AmazingMoaaz/output/github-contribution-grid-snake.svg">
-  </picture>
+  <!-- Snake Animation with Fallbacks -->
+  <div align="center">
+    <!-- Try to load the snake animation -->
+    <img src="https://raw.githubusercontent.com/AmazingMoaaz/AmazingMoaaz/output/github-contribution-grid-snake-dark.svg" 
+         alt="GitHub Contribution Snake" 
+         onerror="this.style.display='none'; document.getElementById('snake-fallback').style.display='block';"
+         style="width: 100%; max-width: 900px;"/>
+    
+    <!-- Fallback contribution graph -->
+    <div id="snake-fallback" style="display: none;">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmazingMoaaz&bg_color=161b22&color=00ff41&line=00d4ff&point=ffffff&area=true&hide_border=true&custom_title=Matrix%20Contribution%20Grid&height=280" 
+           alt="Contribution Matrix" 
+           style="width: 100%; max-width: 900px;"/>
+    </div>
+  </div>
   
-  <!-- Fallback if snake doesn't load -->
-  <noscript>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmazingMoaaz&bg_color=0a0e0a&color=00ff41&line=00d4ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Matrix&height=200" alt="Contribution Matrix"/>
-  </noscript>
+  <!-- Snake Status & Controls -->
+  <div align="center" style="margin-top: 10px;">
+    <a href="https://github.com/AmazingMoaaz/AmazingMoaaz/actions/workflows/snake.yml">
+      <img src="https://img.shields.io/badge/Generate%20Snake-Matrix%20Mode-00ff41?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=161b22" alt="Generate Snake"/>
+    </a>
+    <br/>
+    <sub>🔧 <strong>Snake appearing black?</strong> Click "Generate Snake" above → "Run workflow" to regenerate it manually</sub>
+  </div>
   
 </div>
 
@@ -365,8 +378,28 @@
 <!-- Matrix-style Contribution Stats -->
 <div align="center">
   <h3>📊 Matrix Code Analysis</h3>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AmazingMoaaz&theme=github_dark" alt="Productive Time"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmazingMoaaz&theme=github_dark" alt="Stats"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AmazingMoaaz&theme=github_dark" alt="Productive Time"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmazingMoaaz&theme=github_dark" alt="Stats"/>
+</div>
+
+<br/>
+
+<!-- Additional Reliable Snake Alternatives -->
+<div align="center">
+  <h3>⚡ Backup Matrix Visualizations</h3>
+  
+  <!-- Contribution Calendar -->
+  <img src="https://github-readme-stats.vercel.app/api?username=AmazingMoaaz&show_icons=true&count_private=true&include_all_commits=true&theme=chartreuse-dark&hide_border=true&title_color=00ff41&icon_color=00d4ff&text_color=ffffff&bg_color=161b22&custom_title=Matrix%20Security%20Dashboard" 
+       alt="Matrix Security Dashboard" 
+       style="width: 100%; max-width: 900px;"/>
+  
+  <br/><br/>
+  
+  <!-- Coding Activity Heatmap -->
+  <img src="https://ghchart.rshah.org/00ff41/AmazingMoaaz" 
+       alt="Matrix Coding Heatmap" 
+       style="width: 100%; max-width: 900px;"/>
+       
 </div>
 
 <br/>
