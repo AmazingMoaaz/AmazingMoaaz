@@ -342,33 +342,23 @@
 
 ---
 
-<!-- Epic Matrix Snake Animation -->
+<!-- Epic Matrix Cyber Visualization -->
 <div align="center">
-  <h2>🐍 The Matrix Has You...</h2>
+  <h2>⚡ The Matrix Code Stream ⚡</h2>
   
-  <!-- Snake Animation with Fallbacks -->
+  <!-- Primary Matrix Visualization -->
   <div align="center">
-    <!-- Try to load the snake animation -->
-    <img src="https://raw.githubusercontent.com/AmazingMoaaz/AmazingMoaaz/output/github-contribution-grid-snake-dark.svg" 
-         alt="GitHub Contribution Snake" 
-         onerror="this.style.display='none'; document.getElementById('snake-fallback').style.display='block';"
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmazingMoaaz&bg_color=161b22&color=00ff41&line=00d4ff&point=ffffff&area=true&hide_border=true&custom_title=MATRIX%20CYBER%20WARFARE%20GRID&height=320" 
+         alt="Matrix Cyber Grid" 
          style="width: 100%; max-width: 900px;"/>
-    
-    <!-- Fallback contribution graph -->
-    <div id="snake-fallback" style="display: none;">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmazingMoaaz&bg_color=161b22&color=00ff41&line=00d4ff&point=ffffff&area=true&hide_border=true&custom_title=Matrix%20Contribution%20Grid&height=280" 
-           alt="Contribution Matrix" 
-           style="width: 100%; max-width: 900px;"/>
-    </div>
   </div>
   
-  <!-- Snake Status & Controls -->
-  <div align="center" style="margin-top: 10px;">
-    <a href="https://github.com/AmazingMoaaz/AmazingMoaaz/actions/workflows/snake.yml">
-      <img src="https://img.shields.io/badge/Generate%20Snake-Matrix%20Mode-00ff41?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=161b22" alt="Generate Snake"/>
-    </a>
-    <br/>
-    <sub>🔧 <strong>Snake appearing black?</strong> Click "Generate Snake" above → "Run workflow" to regenerate it manually</sub>
+  <br/>
+  
+  <!-- Matrix Code Visualization -->
+  <div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=2000&pause=500&color=00ff41&center=true&width=900&height=100&lines=01001000+01000001+01000011+01001011+01000101+01010010;01001101+01001111+01000001+01000001+01011010;01010000+01000101+01001110+01000101+01010100+01010010+01000001+01010100+01001001+01001111+01001110;01010100+01000101+01010011+01010100+01000101+01010010;01010011+01000101+01000011+01010101+01010010+01001001+01010100+01011001;01000101+01011000+01010000+01001100+01001111+01001001+01010100" 
+         alt="Matrix Binary Code"/>
   </div>
   
 </div>
@@ -384,22 +374,56 @@
 
 <br/>
 
-<!-- Additional Reliable Snake Alternatives -->
+<!-- Epic Matrix Command Center -->
 <div align="center">
-  <h3>⚡ Backup Matrix Visualizations</h3>
+  <h3>🔥 Matrix Command Center 🔥</h3>
   
-  <!-- Contribution Calendar -->
-  <img src="https://github-readme-stats.vercel.app/api?username=AmazingMoaaz&show_icons=true&count_private=true&include_all_commits=true&theme=chartreuse-dark&hide_border=true&title_color=00ff41&icon_color=00d4ff&text_color=ffffff&bg_color=161b22&custom_title=Matrix%20Security%20Dashboard" 
-       alt="Matrix Security Dashboard" 
-       style="width: 100%; max-width: 900px;"/>
+  <!-- Cyber Warfare Grid -->
+  <div align="center">
+    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=AmazingMoaaz&show_icons=true&count_private=true&include_all_commits=true&theme=chartreuse-dark&hide_border=true&title_color=00ff41&icon_color=00d4ff&text_color=ffffff&bg_color=161b22&custom_title=🔒%20SECURITY%20OPERATIONS%20CENTER" 
+         alt="Security Operations Center" 
+         style="max-width: 900px;"/>
+  </div>
   
-  <br/><br/>
+  <br/>
+  
+  <!-- Matrix Hacker Terminal -->
+  <div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=14&duration=3000&pause=1000&color=00ff41&center=true&width=900&height=80&lines=root@matrix:~%23+nmap+-sV+-O+target.network;root@matrix:~%23+sqlmap+-u+http://target.com+-dbs;root@matrix:~%23+burpsuite+--proxy+intercepting;root@matrix:~%23+hydra+-l+admin+-P+passwords.txt+target;root@matrix:~%23+msfconsole+-q+-x+'use+exploit/multi/handler';root@matrix:~%23+john+--wordlist=/usr/share/wordlists/rockyou.txt+hash.txt" 
+         alt="Hacker Terminal"/>
+  </div>
+  
+  <br/>
   
   <!-- Coding Activity Heatmap -->
-  <img src="https://ghchart.rshah.org/00ff41/AmazingMoaaz" 
-       alt="Matrix Coding Heatmap" 
-       style="width: 100%; max-width: 900px;"/>
-       
+  <div align="center">
+    <h4>🌡️ Heat Signature Analysis</h4>
+    <img src="https://ghchart.rshah.org/00ff41/AmazingMoaaz" 
+         alt="Matrix Heat Signature" 
+         style="width: 100%; max-width: 900px;"/>
+  </div>
+  
+  <br/>
+  
+  <!-- Epic Matrix Stats Grid -->
+  <div align="center">
+    <h4>📊 Real-time Matrix Stats</h4>
+    <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmazingMoaaz&theme=github_dark" alt="Language Analysis"/>
+    <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AmazingMoaaz&theme=github_dark" alt="Primary Arsenal"/>
+    <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AmazingMoaaz&theme=github_dark" alt="Operation Schedule"/>
+  </div>
+  
+  <br/>
+  
+  <!-- Cyber Status Indicators -->
+  <div align="center">
+    <h4>🚨 Cyber Status Matrix</h4>
+    <img src="https://img.shields.io/badge/INTRUSION%20DETECTION-ACTIVE-00ff41?style=for-the-badge&logo=shield-check&logoColor=white&labelColor=161b22" alt="IDS Status"/>
+    <img src="https://img.shields.io/badge/FIREWALL-SECURED-00d4ff?style=for-the-badge&logo=security&logoColor=white&labelColor=161b22" alt="Firewall Status"/>
+    <img src="https://img.shields.io/badge/ENCRYPTION-AES--256-00ff41?style=for-the-badge&logo=lock&logoColor=white&labelColor=161b22" alt="Encryption"/>
+    <img src="https://img.shields.io/badge/THREAT%20LEVEL-MINIMAL-00d4ff?style=for-the-badge&logo=bug&logoColor=white&labelColor=161b22" alt="Threat Level"/>
+  </div>
+  
 </div>
 
 <br/>

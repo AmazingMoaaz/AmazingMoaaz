@@ -1,17 +1,17 @@
 name: Generate Matrix Snake
 
 on:
-  # Run automatically every 12 hours
-  schedule:
-    - cron: "0 */12 * * *"
+  # Disabled - using better visualizations now
+  # schedule:
+  #   - cron: "0 */12 * * *"
   
-  # Allows manual trigger
+  # Manual trigger only (if needed for testing)
   workflow_dispatch:
   
-  # Run on every push to main branch
-  push:
-    branches:
-      - main
+  # Disabled - using activity graph instead
+  # push:
+  #   branches:
+  #     - main
 
 jobs:
   generate:
