@@ -63,11 +63,8 @@
   <a href="https://github.com/AmazingMoaaz?tab=repositories">
     <img src="https://img.shields.io/badge/Repositories-View%20All-blue?style=flat&logo=github" alt="GitHub Repositories">
   </a>
-  <a href="https://linkedin.com/in/moaaz-awad">
+  <a href="https://linkedin.com/in/gewili-moaaz">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/AmazingMoaaz">
-    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter">
   </a>
 </div>
 
