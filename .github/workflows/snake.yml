@@ -1,41 +1,42 @@
-name: Generate Matrix Snake
+name: Generate Epic Snake Animation
 
 on:
-  # Disabled - using better visualizations now
-  # schedule:
-  #   - cron: "0 */12 * * *"
+  # Run every 24 hours
+  schedule:
+    - cron: "0 0 * * *"
   
-  # Manual trigger only (if needed for testing)
+  # Manual trigger
   workflow_dispatch:
   
-  # Disabled - using activity graph instead
-  # push:
-  #   branches:
-  #     - main
+  # Run on push to main
+  push:
+    branches:
+      - main
 
 jobs:
   generate:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
     
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
-      - name: Generate Snake
-        uses: Platane/snk/svg-only@v3
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
         with:
           github_user_name: AmazingMoaaz
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?color_snake=green&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push Snake to Output Branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist

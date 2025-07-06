@@ -342,23 +342,39 @@
 
 ---
 
-<!-- Epic Matrix Cyber Visualization -->
+<!-- Epic Snake Animation -->
 <div align="center">
-  <h2>⚡ The Matrix Code Stream ⚡</h2>
+  <h2>🐍 The Matrix Snake Has You... 🐍</h2>
   
-  <!-- Primary Matrix Visualization -->
+  <!-- Snake Animation Options -->
   <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmazingMoaaz&bg_color=161b22&color=00ff41&line=00d4ff&point=ffffff&area=true&hide_border=true&custom_title=MATRIX%20CYBER%20WARFARE%20GRID&height=320" 
-         alt="Matrix Cyber Grid" 
-         style="width: 100%; max-width: 900px;"/>
+    <!-- Primary Snake - Dark Theme -->
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmazingMoaaz/AmazingMoaaz/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmazingMoaaz/AmazingMoaaz/output/github-snake.svg">
+      <img alt="Snake Animation" src="https://raw.githubusercontent.com/AmazingMoaaz/AmazingMoaaz/output/github-contribution-grid-snake-dark.svg" style="width: 100%; max-width: 900px;"/>
+    </picture>
+  </div>
+  
+  <!-- Snake Status & Manual Trigger -->
+  <div align="center" style="margin-top: 15px;">
+    <a href="https://github.com/AmazingMoaaz/AmazingMoaaz/actions/workflows/snake.yml">
+      <img src="https://img.shields.io/badge/🐍%20Generate%20Snake-Matrix%20Green-00ff41?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=161b22" alt="Generate Snake"/>
+    </a>
+    <a href="https://github.com/AmazingMoaaz/AmazingMoaaz/actions">
+      <img src="https://img.shields.io/github/actions/workflow/status/AmazingMoaaz/AmazingMoaaz/snake.yml?style=for-the-badge&logo=github&label=Snake%20Status&labelColor=161b22&color=00d4ff" alt="Snake Status"/>
+    </a>
   </div>
   
   <br/>
   
-  <!-- Matrix Code Visualization -->
+  <!-- Snake Info -->
   <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=2000&pause=500&color=00ff41&center=true&width=900&height=100&lines=01001000+01000001+01000011+01001011+01000101+01010010;01001101+01001111+01000001+01000001+01011010;01010000+01000101+01001110+01000101+01010100+01010010+01000001+01010100+01001001+01001111+01001110;01010100+01000101+01010011+01010100+01000101+01010010;01010011+01000101+01000011+01010101+01010010+01001001+01010100+01011001;01000101+01011000+01010000+01001100+01001111+01001001+01010100" 
-         alt="Matrix Binary Code"/>
+    <sub>
+      <strong>🔧 Snake not appearing?</strong> Click "Generate Snake" above → "Run workflow" to create it manually<br/>
+      <strong>⏰ Auto-updates:</strong> Every 24 hours and on code pushes<br/>
+      <strong>🎨 Multiple themes:</strong> Dark mode (green snake) + Light mode (blue snake)
+    </sub>
   </div>
   
 </div>
