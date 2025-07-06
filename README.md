@@ -93,56 +93,70 @@
   <div align="center">
     <h3>🚀 Advanced Developer Analytics</h3>
     
-    <!-- Custom Contribution Stats -->
+    <!-- Primary Security Operations Dashboard -->
     <div align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=AmazingMoaaz&show_icons=true&count_private=true&include_all_commits=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0e0a&title_color=00ff41&icon_color=00d4ff&text_color=ffffff&custom_title=Security%20Operations%20Dashboard" alt="Advanced Stats"/>
+      <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AmazingMoaaz&show_icons=true&count_private=true&include_all_commits=true&theme=chartreuse-dark&hide_border=true&title_color=00ff41&icon_color=00d4ff&text_color=ffffff&bg_color=161b22" alt="Security Operations Dashboard"/>
+      <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AmazingMoaaz&theme=dark&hide_border=true&background=161b22&stroke=00ff41&ring=00d4ff&fire=00ff41&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=00ff41&sideNums=00d4ff&dates=ffffff" alt="Streak Dashboard"/>
     </div>
     
     <br/>
     
-    <!-- Language Proficiency with Custom Styling -->
+    <!-- Language Arsenal Matrix -->
     <div align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmazingMoaaz&layout=donut&theme=chartreuse-dark&hide_border=true&bg_color=0a0e0a&title_color=00ff41&text_color=ffffff&langs_count=8&custom_title=Exploit%20Arsenal%20Matrix" alt="Language Matrix"/>
+      <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmazingMoaaz&layout=compact&theme=chartreuse-dark&hide_border=true&title_color=00ff41&text_color=ffffff&bg_color=161b22&langs_count=8" alt="Language Arsenal"/>
+      <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmazingMoaaz&layout=donut-vertical&theme=chartreuse-dark&hide_border=true&title_color=00ff41&text_color=ffffff&bg_color=161b22&langs_count=6" alt="Language Matrix"/>
     </div>
     
     <br/>
     
-    <!-- Advanced GitHub Metrics -->
+    <!-- Advanced Metrics Grid -->
     <div align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmazingMoaaz&theme=github_dark" alt="Repos per Language"/>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AmazingMoaaz&theme=github_dark" alt="Most Commit Language"/>
+      <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmazingMoaaz&theme=github_dark" alt="Repos per Language"/>
+      <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AmazingMoaaz&theme=github_dark" alt="Most Commit Language"/>
+      <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AmazingMoaaz&theme=github_dark" alt="Productive Time"/>
     </div>
     
     <br/>
     
-    <!-- Real-time Activity Feed -->
+    <!-- Cyber Warfare Activity Matrix -->
     <div align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmazingMoaaz&bg_color=0a0e0a&color=00ff41&line=00d4ff&point=ffffff&area=true&hide_border=true&custom_title=Cyber%20Warfare%20Activity&height=280" alt="Activity Feed"/>
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AmazingMoaaz&bg_color=161b22&color=00ff41&line=00d4ff&point=ffffff&area=true&hide_border=true&title_color=00ff41&custom_title=Cyber%20Warfare%20Activity%20Matrix" alt="Cyber Activity"/>
     </div>
     
     <br/>
     
     <!-- Achievement Showcase -->
     <div align="center">
-      <h4>🏆 Achievement Unlocked</h4>
-      <img src="https://github-profile-trophy.vercel.app/?username=AmazingMoaaz&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Achievement Showcase"/>
+      <h4>🏆 Cyber Achievements Unlocked</h4>
+      <img src="https://github-profile-trophy.vercel.app/?username=AmazingMoaaz&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=7&title=Stars,Commits,PullRequest,Issues,Repositories,Followers,Experience" alt="Achievement Showcase"/>
+    </div>
+    
+    <br/>
+    
+    <!-- GitHub Analytics Grid -->
+    <div align="center">
+      <h4>📊 Advanced Analytics Matrix</h4>
+      <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmazingMoaaz&theme=github_dark" alt="Profile Details"/>
+      <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmazingMoaaz&theme=github_dark" alt="Stats Summary"/>
     </div>
     
     <br/>
     
     <!-- Coding Frequency Heatmap -->
     <div align="center">
-      <img src="https://ghchart.rshah.org/00ff41/AmazingMoaaz" alt="Coding Frequency"/>
+      <h4>🔥 Matrix Code Frequency</h4>
+      <img src="https://ghchart.rshah.org/00ff41/AmazingMoaaz" alt="Coding Frequency Matrix" width="100%"/>
     </div>
     
     <br/>
     
     <!-- Social Stats -->
     <div align="center">
-      <h4>🌐 Cyber Network</h4>
-      <img src="https://img.shields.io/github/followers/AmazingMoaaz?style=for-the-badge&logo=github&logoColor=white&label=Allies&labelColor=0a0e0a&color=00ff41" alt="Followers"/>
-      <img src="https://img.shields.io/github/stars/AmazingMoaaz?style=for-the-badge&logo=github&logoColor=white&label=Exploits&labelColor=0a0e0a&color=00d4ff&affiliations=OWNER" alt="Total Stars"/>
-      <img src="https://img.shields.io/badge/Reconnaissance-Active-00ff41?style=for-the-badge&logo=eye&logoColor=white&labelColor=0a0e0a" alt="Profile Views"/>
+      <h4>🌐 Cyber Network Status</h4>
+      <img src="https://img.shields.io/github/followers/AmazingMoaaz?style=for-the-badge&logo=github&logoColor=white&label=Allies&labelColor=161b22&color=00ff41" alt="Followers"/>
+      <img src="https://img.shields.io/github/stars/AmazingMoaaz?style=for-the-badge&logo=github&logoColor=white&label=Exploits&labelColor=161b22&color=00d4ff&affiliations=OWNER" alt="Total Stars"/>
+      <img src="https://img.shields.io/badge/Reconnaissance-Active-00ff41?style=for-the-badge&logo=eye&logoColor=white&labelColor=161b22" alt="Profile Views"/>
+      <img src="https://img.shields.io/badge/Security%20Level-MAXIMUM-00d4ff?style=for-the-badge&logo=shield&logoColor=white&labelColor=161b22" alt="Security Level"/>
     </div>
     
     <br/>
@@ -151,6 +165,21 @@
     <div align="center">
       <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Line"/>
     </div>
+    
+    <!-- Backup Analytics (Reliable Fallbacks) -->
+    <details>
+    <summary><h4>🔧 Backup Analytics Dashboard</h4></summary>
+    <div align="center">
+      <br/>
+      <!-- Simple, Reliable Stats -->
+      <img src="https://github-readme-stats.vercel.app/api?username=AmazingMoaaz&show_icons=true&theme=dark" alt="Simple Stats"/>
+      <br/><br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmazingMoaaz&layout=compact&theme=dark" alt="Simple Languages"/>
+      <br/><br/>
+      <!-- Reliable Streak Stats -->
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmazingMoaaz&theme=dark" alt="Simple Streak"/>
+    </div>
+    </details>
     
   </div>
   
