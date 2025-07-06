@@ -2,21 +2,17 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=MOAAZ%20-%20PENETRATION%20TESTER&fontSize=35&fontColor=00ff41&animation=fadeIn&fontAlignY=35&desc=ETHICAL%20HACKER%20|%20CYBERSECURITY%20SPECIALIST&descAlignY=55&descSize=15" alt="Header"/>
 </div>
-
 <div align="center">
   <h1>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00ff41&center=true&width=600&height=50&lines=👋+ACCESS+GRANTED!;🔒+PENETRATION+TESTER;⚡+CYBERSECURITY+SPECIALIST;🛡️+ETHICAL+HACKER" alt="Title"/>
   </h1>
 </div>
-
 <div align="center">
   <p>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&center=true&width=700&height=60&color=00d4ff&lines=Cybersecurity+is+not+optional.;Hackers+don't+break+in%2C+they+log+in.;Security+is+everyone's+responsibility.;Think+before+you+click.;The+only+secure+system+is+one+that+is+off.;In+God+we+trust%2C+all+others+we+monitor.">
   </p>
 </div>
-
 <br/>
-
 <!-- Epic GitHub Stats Section -->
 <div align="center">
   <h2>🔥 GitHub Analytics & Activity 🔥</h2>
@@ -31,9 +27,8 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmazingMoaaz&show_icons=true&count_private=true&include_all_commits=true&theme=chartreuse-dark&hide_border=true&bg_color=0A0E0A&title_color=00FF41&icon_color=00D4FF&text_color=FFFFFF&border_radius=15" alt="GitHub Stats"/>
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AmazingMoaaz&theme=dark&hide_border=true&background=0A0E0A&stroke=00FF41&ring=00D4FF&fire=00FF41&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=00FF41&sideNums=00D4FF&dates=FFFFFF" alt="GitHub Streak"/>
   </div>
-  
   <br/>
-  
+
   <!-- Languages and Activity Row -->
   <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmazingMoaaz&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0A0E0A&title_color=00FF41&text_color=FFFFFF&border_radius=15&langs_count=8&card_width=280" alt="Top Languages"/>
@@ -100,21 +95,29 @@
     
     <!-- Custom Contribution Stats -->
     <div align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=AmazingMoaaz&show_icons=true&count_private=true&include_all_commits=true&theme=chartreuse-dark&hide_border=true&bg_color=0A0E0A&title_color=00FF41&icon_color=00D4FF&text_color=FFFFFF&border_radius=15&custom_title=🔒%20Security%20Operations%20Dashboard" alt="Advanced Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=AmazingMoaaz&show_icons=true&count_private=true&include_all_commits=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0e0a&title_color=00ff41&icon_color=00d4ff&text_color=ffffff&custom_title=Security%20Operations%20Dashboard" alt="Advanced Stats"/>
     </div>
     
     <br/>
     
     <!-- Language Proficiency with Custom Styling -->
     <div align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmazingMoaaz&layout=donut&theme=chartreuse-dark&hide_border=true&bg_color=0A0E0A&title_color=00FF41&text_color=FFFFFF&border_radius=15&langs_count=12&custom_title=⚡%20Exploit%20Arsenal%20Matrix" alt="Language Matrix"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmazingMoaaz&layout=donut&theme=chartreuse-dark&hide_border=true&bg_color=0a0e0a&title_color=00ff41&text_color=ffffff&langs_count=8&custom_title=Exploit%20Arsenal%20Matrix" alt="Language Matrix"/>
+    </div>
+    
+    <br/>
+    
+    <!-- Advanced GitHub Metrics -->
+    <div align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmazingMoaaz&theme=github_dark" alt="Repos per Language"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AmazingMoaaz&theme=github_dark" alt="Most Commit Language"/>
     </div>
     
     <br/>
     
     <!-- Real-time Activity Feed -->
     <div align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmazingMoaaz&bg_color=0A0E0A&color=00FF41&line=00D4FF&point=FFFFFF&area=true&hide_border=true&custom_title=Cyber%20Warfare%20Activity&height=300" alt="Activity Feed"/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmazingMoaaz&bg_color=0a0e0a&color=00ff41&line=00d4ff&point=ffffff&area=true&hide_border=true&custom_title=Cyber%20Warfare%20Activity&height=280" alt="Activity Feed"/>
     </div>
     
     <br/>
@@ -137,9 +140,9 @@
     <!-- Social Stats -->
     <div align="center">
       <h4>🌐 Cyber Network</h4>
-      <img src="https://img.shields.io/github/followers/AmazingMoaaz?style=for-the-badge&logo=github&logoColor=white&label=Allies&labelColor=0A0E0A&color=00FF41" alt="Followers"/>
-      <img src="https://img.shields.io/github/stars/AmazingMoaaz?style=for-the-badge&logo=github&logoColor=white&label=Exploits&labelColor=0A0E0A&color=00D4FF&affiliations=OWNER" alt="Total Stars"/>
-      <img src="https://img.shields.io/badge/Reconnaissance-Active-00FF41?style=for-the-badge&logo=eye&logoColor=white&labelColor=0A0E0A" alt="Profile Views"/>
+      <img src="https://img.shields.io/github/followers/AmazingMoaaz?style=for-the-badge&logo=github&logoColor=white&label=Allies&labelColor=0a0e0a&color=00ff41" alt="Followers"/>
+      <img src="https://img.shields.io/github/stars/AmazingMoaaz?style=for-the-badge&logo=github&logoColor=white&label=Exploits&labelColor=0a0e0a&color=00d4ff&affiliations=OWNER" alt="Total Stars"/>
+      <img src="https://img.shields.io/badge/Reconnaissance-Active-00ff41?style=for-the-badge&logo=eye&logoColor=white&labelColor=0a0e0a" alt="Profile Views"/>
     </div>
     
     <br/>
@@ -313,7 +316,28 @@
 <!-- Epic Matrix Snake Animation -->
 <div align="center">
   <h2>🐍 The Matrix Has You...</h2>
-  <img src="https://raw.githubusercontent.com/AmazingMoaaz/AmazingMoaaz/output/github-contribution-grid-snake-dark.svg" alt="Matrix Snake Animation" />
+  
+  <!-- Primary Snake Animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmazingMoaaz/AmazingMoaaz/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmazingMoaaz/AmazingMoaaz/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AmazingMoaaz/AmazingMoaaz/output/github-contribution-grid-snake.svg">
+  </picture>
+  
+  <!-- Fallback if snake doesn't load -->
+  <noscript>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmazingMoaaz&bg_color=0a0e0a&color=00ff41&line=00d4ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Matrix&height=200" alt="Contribution Matrix"/>
+  </noscript>
+  
+</div>
+
+<br/>
+
+<!-- Matrix-style Contribution Stats -->
+<div align="center">
+  <h3>📊 Matrix Code Analysis</h3>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AmazingMoaaz&theme=github_dark" alt="Productive Time"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmazingMoaaz&theme=github_dark" alt="Stats"/>
 </div>
 
 <br/>
