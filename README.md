@@ -62,6 +62,13 @@
 
 # 💻 Tech Stack & Tools
 
+## 💾 Operating Systems
+<div align="center">
+
+![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian%20KDE-%23A81D33.svg?style=for-the-badge&logo=debian&logoColor=white)
+
+</div> 
 <table>
 <tr>
 <td valign="top" width="50%">
@@ -159,15 +166,6 @@
 </td>
 </tr>
 </table>
-
-## 💾 Operating Systems
-<div align="center">
-
-![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian%20KDE-%23A81D33.svg?style=for-the-badge&logo=debian&logoColor=white)
-
-</div>
-
 
 <br/>
 
