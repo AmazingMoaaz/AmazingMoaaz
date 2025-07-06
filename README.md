@@ -15,13 +15,17 @@
   <img src="https://komarev.com/ghpvc/?username=AmazingMoaaz&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
 
 ---
+
+  <div>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AmazingMoaaz&theme=dark&hide_border=true&background=0A0E0A&stroke=00FF41&ring=00D4FF&fire=00FF41&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=00FF41&sideNums=00D4FF&dates=FFFFFF" alt="GitHub Streak"/>
+  </div>
+
   <div align="center">
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmazingMoaaz&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0A0E0A&title_color=00FF41&text_color=FFFFFF&border_radius=10&langs_count=8&card_width=280" alt="Top Languages"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmazingMoaaz&theme=github_dark" alt="Profile Summary"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmazingMoaaz&show_icons=true&count_private=true&include_all_commits=true&theme=chartreuse-dark&hide_border=true&bg_color=0A0E0A&title_color=00FF41&icon_color=00D4FF&text_color=FFFFFF&border_radius=10" alt="GitHub Stats"/>
   </div>
     <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmazingMoaaz&show_icons=true&count_private=true&include_all_commits=true&theme=chartreuse-dark&hide_border=true&bg_color=0A0E0A&title_color=00FF41&icon_color=00D4FF&text_color=FFFFFF&border_radius=10" alt="GitHub Stats"/>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AmazingMoaaz&theme=dark&hide_border=true&background=0A0E0A&stroke=00FF41&ring=00D4FF&fire=00FF41&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=00FF41&sideNums=00D4FF&dates=FFFFFF" alt="GitHub Streak"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmazingMoaaz&theme=github_dark" alt="Profile Summary"/>
   </div>
     
   <!-- GitHub Trophies -->
