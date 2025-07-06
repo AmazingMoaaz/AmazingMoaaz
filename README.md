@@ -18,13 +18,15 @@
 
 ---
 
+<div align="center">
+
 ## 💫 About Me
 
-<p align="left">
+<p align="center">
   I'm an aspiring cybersecurity specialist with a growing foundation in penetration testing, infrastructure, and security solutions. I'm building my skills in offensive security while expanding my technical knowledge.
 </p>
 
-<p align="left">
+<p align="center">
   🔭 I'm currently working on developing my skills in security assessment for web applications
   <br/>
   👯 I'm eager to collaborate on beginner-friendly security projects and learning initiatives
@@ -37,7 +39,7 @@
 </p>
 
 ### 🤝 Connect with me:
-<div align="left">
+<div align="center">
   <a href="https://github.com/AmazingMoaaz">
     <img src="https://img.shields.io/github/followers/AmazingMoaaz?label=Followers&style=social" alt="GitHub Followers">
   </a>
@@ -52,6 +54,8 @@
   </a>
 </div>
 
+</div>
+
 <br/>
 
 ---
@@ -62,13 +66,7 @@
 <tr>
 <td valign="top" width="50%">
 
-## 💾 Operating Systems
-<div align="center">
 
-![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian%20KDE-%23A81D33.svg?style=for-the-badge&logo=debian&logoColor=white)
-
-</div>
 
 ## 🛡️ Security & Penetration Testing
 <div align="center">
@@ -156,6 +154,14 @@
 ![Homebridge](https://img.shields.io/badge/homebridge-%23491F59.svg?style=for-the-badge&logo=homebridge&logoColor=white)
 ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white)
 ![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC)
+
+</div>
+
+## 💾 Operating Systems
+<div align="center">
+
+![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian%20KDE-%23A81D33.svg?style=for-the-badge&logo=debian&logoColor=white)
 
 </div>
 
