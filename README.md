@@ -1,6 +1,7 @@
 <!-- Epic Cybersecurity Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=AmazingMoaaz&fontSize=35&fontColor=00ff41&animation=fadeIn&fontAlignY=35&desc=ETHICAL%20HACKER%20|%20CYBERSECURITY%20SPECIALIST&descAlignY=55&descSize=15" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=AmazingMoaaz&fontSize=35&fontColor=00ff41&animation=fadeIn&fontAlignY=35&desc=Jr%20Penetration%20Tester%20|%20Bug%20Hunter&descAlignY=55&descSize=15" alt="Header"/>
+
 </div>
 <div align="center">
   <p>
