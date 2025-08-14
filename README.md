@@ -8,35 +8,15 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&center=true&width=700&height=60&color=00d4ff&lines=Cybersecurity+is+not+optional.;Hackers+don't+break+in%2C+they+log+in.;Security+is+everyone's+responsibility.;Think+before+you+click.;The+only+secure+system+is+one+that+is+off.;In+God+we+trust%2C+all+others+we+monitor.">
   </p>
 </div>
-<!-- Epic GitHub Stats Section -->
-<div align="center">
 
 ---
+<div align="center">
   <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=AmazingMoaaz&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
 
----
-
-  <div>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AmazingMoaaz&theme=dark&hide_border=true&background=0A0E0A&stroke=00FF41&ring=00D4FF&fire=00FF41&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=00FF41&sideNums=00D4FF&dates=FFFFFF" alt="GitHub Streak"/>
-  </div>
-
-  <div align="center">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmazingMoaaz&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0A0E0A&title_color=00FF41&text_color=FFFFFF&border_radius=10&langs_count=8&card_width=280" alt="Top Languages"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmazingMoaaz&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0A0E0A&title_color=00FF41&icon_color=00D4FF&text_color=FFFFFF&border_radius=10" alt="GitHub Stats"/>
-  </div>
-    <div>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmazingMoaaz&theme=github_dark" alt="Profile Summary"/>
-  </div>
-    
-  <!-- GitHub Trophies -->
-  <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=AmazingMoaaz&theme=matrix&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-  </div>
-
----
-
 <div align="center">
+
+---
 
 ## 💫 About Me
 
@@ -72,6 +52,20 @@
 </div>
 
 <br/>
+
+---
+<!-- Epic GitHub Stats Section -->
+<div align="center">
+<div align="center">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmazingMoaaz&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0A0E0A&title_color=00FF41&icon_color=00D4FF&text_color=FFFFFF&border_radius=10" alt="GitHub Stats"/>
+      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AmazingMoaaz&theme=dark&hide_border=true&background=0A0E0A&stroke=00FF41&ring=00D4FF&fire=00FF41&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=00FF41&sideNums=00D4FF&dates=FFFFFF" alt="GitHub Streak"/>
+  </div>
+
+    
+  <!-- GitHub Trophies -->
+  <div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=AmazingMoaaz&theme=matrix&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+  </div>
 
 ---
 
