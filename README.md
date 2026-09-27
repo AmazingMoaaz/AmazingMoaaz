@@ -94,5 +94,8 @@ I work at the intersection of security and infrastructure — securing systems, 
 
 ## 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-gewili--moaaz-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/gewili-moaaz)
-[![GitHub](https://img.shields.io/badge/GitHub-AmazingMoaaz-181717?style=flat&logo=github&logoColor=white)](https://github.com/AmazingMoaaz)
+[![Email](https://img.shields.io/badge/Email-Moaaz%20Gewili-0078D4?logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIj48cmVjdCB4PSIyIiB5PSI0LjUiIHdpZHRoPSIyMCIgaGVpZ2h0PSIxNSIgcng9IjIiLz48cGF0aCBkPSJNMi41IDYuNWw5LjUgNyA5LjUtNyIvPjwvc3ZnPg%3D%3D)](mailto:Moaz_Awad@outlook.com)
+[![Facebook](https://img.shields.io/badge/Facebook-Moaaz%20Gewili-1877F2?logo=facebook&logoColor=white)](https://facebook.com/Amazing.Moaaz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Moaaz%20Gewili-0A66C2?logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxjaXJjbGUgY3g9IjQuNiIgY3k9IjQuNiIgcj0iMi40Ii8%2BPHJlY3QgeD0iMi4yIiB5PSI4LjgiIHdpZHRoPSI0LjgiIGhlaWdodD0iMTIuNyIvPjxyZWN0IHg9IjkuNCIgeT0iOC44IiB3aWR0aD0iNC41IiBoZWlnaHQ9IjEyLjciLz48cGF0aCBkPSJNMTMuOSAxNGMwLTMgMS45LTUuNCA0LjUtNS40IDIuNiAwIDMuOSAxLjkgMy45IDUuMnY3LjdoLTQuN3YtN2MwLTEuMi0uNS0yLTEuNi0yLTEgMC0yLjEuOC0yLjEgMi40eiIvPjwvc3ZnPg%3D%3D)](https://linkedin.com/in/gewili-moaaz)
+[![X](https://img.shields.io/badge/Moaaz%20Gewili-000000?logo=x&logoColor=white)](https://x.com/M_0_A_Z)
+[![GitHub](https://img.shields.io/badge/GitHub-Moaaz%20Gewili-181717?logo=github&logoColor=white)](https://github.com/AmazingMoaaz)
