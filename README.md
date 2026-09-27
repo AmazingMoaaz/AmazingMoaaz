@@ -1,200 +1,98 @@
-<!-- Epic Cybersecurity Header -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=AmazingMoaaz&fontSize=35&fontColor=00ff41&animation=fadeIn&fontAlignY=35&desc=Jr%20Penetration%20Tester%20|%20Bug%20Hunter&descAlignY=55&descSize=15" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a192f,35:1e3a8a,70:0e7490,100:22d3ee&height=160&section=header&text=Moaaz%20Gewili&fontSize=42&fontColor=7dd3fc&fontAlign=22&fontAlignY=44&desc=Cybersecurity%20Engineer%20%E2%80%A2%20DevSecOps%20Engineer&descAlign=22&descAlignY=72&descSize=13&animation=twinkling&stroke=0ea5e9&strokeWidth=1" alt="Moaaz Gewili — Cybersecurity Engineer • DevSecOps Engineer"/>
 
-</div>
-<div align="center">
-  <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&center=true&width=700&height=60&color=00d4ff&lines=Cybersecurity+is+not+optional.;Hackers+don't+break+in%2C+they+log+in.;Security+is+everyone's+responsibility.;Think+before+you+click.;The+only+secure+system+is+one+that+is+off.;In+God+we+trust%2C+all+others+we+monitor.">
-  </p>
-</div>
+I work at the intersection of security and infrastructure — securing systems, automating deployments, and embedding security into every stage of the development lifecycle. From penetration testing and vulnerability assessment to building hardened CI/CD pipelines, I make sure security is built in, not bolted on.
 
----
-<div align="center">
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=AmazingMoaaz&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
+- 🔐 Performing penetration tests and web application security assessments
+- ⚙️ Designing and automating secure CI/CD pipelines and infrastructure
+- 🛡️ Integrating security tooling into DevOps workflows (DevSecOps)
+- 🏠 Running a self-hosted home lab for infrastructure and security research
 
-<div align="center">
+## 💻 Tech Stack & Tools
 
----
+#### 💾 Operating Systems
 
-## 💫 About Me
+![Windows 11](https://img.shields.io/badge/Windows%2011-0079d5?logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0zIDNoOS41djkuNUgzek0xMy41IDNIMjJ2OS41aC04LjV6TTMgMTMuNWg5LjVWMjJIM3pNMTMuNSAxMy41SDIyVjIyaC04LjV6Ii8%2BPC9zdmc%2B)
+![Debian](https://img.shields.io/badge/Debian%20KDE-A81D33?logo=debian&logoColor=white)
 
-<p align="center">
-  I'm an aspiring cybersecurity specialist with a growing foundation in penetration testing, infrastructure, and security solutions. I'm building my skills in offensive security while expanding my technical knowledge.
-</p>
-
-<p align="center">
-  🔭 I'm currently working on developing my skills in security assessment for web applications
-  <br/>
-  👯 I'm eager to collaborate on beginner-friendly security projects and learning initiatives
-  <br/>
-  🌱 I'm actively learning penetration testing fundamentals and security best practices
-  <br/>
-  💬 Ask me about my cybersecurity journey, learning resources, or security tools I'm exploring
-  <br/>
-  ⚡ Fun fact: I'm passionate about building my home lab to practice security techniques and infrastructure setup
-</p>
-
-### 🤝 Connect with me:
-<div align="center">
-  <a href="https://github.com/AmazingMoaaz">
-    <img src="https://img.shields.io/github/followers/AmazingMoaaz?label=Followers&style=social" alt="GitHub Followers">
-  </a>
-  <a href="https://github.com/AmazingMoaaz?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-View%20All-blue?style=flat&logo=github" alt="GitHub Repositories">
-  </a>
-  <a href="https://linkedin.com/in/gewili-moaaz">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn">
-  </a>
-</div>
-
-</div>
-
-<br/>
-
----
-<!-- Epic GitHub Stats Section -->
-<div align="center">
-<div align="center">
-      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AmazingMoaaz&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0A0E0A&title_color=00FF41&icon_color=00D4FF&text_color=FFFFFF&border_radius=10" alt="GitHub Stats"/>
-      <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=AmazingMoaaz&theme=dark&hide_border=true&background=0A0E0A&stroke=00FF41&ring=00D4FF&fire=00FF41&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=00FF41&sideNums=00D4FF&dates=FFFFFF" alt="GitHub Streak"/>
-  </div>
-
-    
-  <!-- GitHub Trophies -->
-  <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=AmazingMoaaz&theme=matrix&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-  </div>
-
----
-
-# 💻 Tech Stack & Tools
-
-## 💾 Operating Systems
-<div align="center">
-
-![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian%20KDE-%23A81D33.svg?style=for-the-badge&logo=debian&logoColor=white)
-
-</div> 
 <table>
 <tr>
 <td valign="top" width="50%">
 
+#### 🛡️ Security & Penetration Testing
 
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?logo=portswigger&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-43B02A?logo=gnubash&logoColor=white)
+![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-A81D33?logo=gnubash&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2A6B3D?logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?logo=gnometerminal&logoColor=white)
+![SQLmap](https://img.shields.io/badge/SQLmap-CC2927?logo=mysql&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)
 
-## 🛡️ Security & Penetration Testing
-<div align="center">
+#### 🚀 Programming Languages
 
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=hacker-news&logoColor=white)
-![Hydra](https://img.shields.io/badge/Hydra-43B02A?style=for-the-badge&logo=windowsterminal&logoColor=white)
-![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-A81D33?style=for-the-badge&logo=gnubash&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2A6B3D?style=for-the-badge&logo=metasploit&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=windowsterminal&logoColor=white)
-![SQLmap](https://img.shields.io/badge/SQLmap-CC2927?style=for-the-badge&logo=mysql&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E)
 
-</div>
+#### 🗄️ Databases
 
-## 🚀 Programming Languages
-<div align="center">
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405e?logo=sqlite&logoColor=white)
 
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+#### 🔧 Development Tools & Utilities
 
-</div>
-
-## 🗄️ Databases
-<div align="center">
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-</div>
-
-## 🔧 Development Tools & Utilities
-<div align="center">
-
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
-![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-
-</div>
+![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
+![Bash Script](https://img.shields.io/badge/Bash%20Script-121011?logo=gnu-bash&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-008FBA?logo=cmake&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-171717?logo=ffmpeg&logoColor=5cb85c)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZD0iTTMuNSA0LjVsOSA3LjUtOSA3LjUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMyIgZmlsbD0ibm9uZSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8%2BPHJlY3QgeD0iMTMiIHk9IjE4LjUiIHdpZHRoPSI4IiBoZWlnaHQ9IjMiIHJ4PSIxIiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPg%3D%3D)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 
 </td>
 <td valign="top" width="50%">
 
-## 🌐 Web Development & APIs
-<div align="center">
+#### 🌐 Web Development & APIs
 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=nodedotjs&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 
-</div>
+#### ☁️ Cloud & Hosting
 
-## ☁️ Cloud & Hosting
-<div align="center">
+![AWS](https://img.shields.io/badge/AWS-FF9900?logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOC41IDE4LjVINi43NWE0Ljc1IDQuNzUgMCAwIDEtLjctOS40NUE2LjUgNi41IDAgMCAxIDE4LjcgMTAuNmE0IDQgMCAwIDEtLjIgNy45eiIvPjwvc3ZnPg%3D%3D&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0072C6?logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMy4wNSAzSDguOUwzIDE5LjVoNC4xNXpNMTQuMyA2LjJsLTMuOSAxMC45IDcuMyA0LjRIOC4ybC0xLjEgM2guMDVIMjF6Ii8%2BPHBhdGggZD0iTTE0LjU1IDNoLTEuNUwyMSAyMC41aC0zLjN6Ii8%2BPC9zdmc%2B)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0167ff?logo=digitalocean&logoColor=white)
 
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
+#### 🧰 DevOps & Infrastructure
 
-</div>
+![Apache](https://img.shields.io/badge/Apache-D42029?logo=apache&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5?logo=githubactions&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?logo=kubernetes&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
 
-## 🧰 DevOps & Infrastructure
-<div align="center">
+#### 🏠 Homelab & Automation
 
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Home Assistant](https://img.shields.io/badge/Home%20Assistant-41BDF5?logo=home-assistant&logoColor=white)
+![Homebridge](https://img.shields.io/badge/Homebridge-491F59?logo=homebridge&logoColor=white)
+![Pi-Hole](https://img.shields.io/badge/Pi--hole-96060C?logo=pi-hole&logoColor=white)
+![Jellyfin](https://img.shields.io/badge/Jellyfin-000B25?logo=jellyfin&logoColor=00A4DC)
 
-</div>
-
-## 🏠 Homelab & Automation
-<div align="center">
-
-![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white)
-![Homebridge](https://img.shields.io/badge/homebridge-%23491F59.svg?style=for-the-badge&logo=homebridge&logoColor=white)
-![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white)
-![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC)
-
-</div>
 </td>
 </tr>
 </table>
 
-<br/>
+## 📊 GitHub Stats
 
----
+<img height="160" src="https://github-readme-stats.zohan.tech/api?username=AmazingMoaaz&show_icons=true&hide_border=true&bg_color=0a192f&title_color=22d3ee&icon_color=0ea5e9&text_color=ffffff&border_radius=10" alt="GitHub Stats"/>&nbsp;&nbsp;&nbsp;&nbsp;<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=AmazingMoaaz&hide_border=true&background=0a192f&stroke=0ea5e9&ring=22d3ee&fire=22d3ee&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=22d3ee&sideNums=7dd3fc&dates=94a3b8&border_radius=10" alt="GitHub Streak"/>
 
-<!-- Epic Snake Animation -->
-<div align="center">
-  <h2>🐍 The Matrix Snake Has You... 🐍</h2>
-  
-  <!-- Snake Animation Options -->
-  <div align="center">
-    <!-- Primary Snake - Dark Theme -->
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmazingMoaaz/AmazingMoaaz/output/github-contribution-grid-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmazingMoaaz/AmazingMoaaz/output/github-snake.svg">
-      <img alt="Snake Animation" src="https://raw.githubusercontent.com/AmazingMoaaz/AmazingMoaaz/output/github-contribution-grid-snake-dark.svg" style="width: 100%; max-width: 900px;"/>
-    </picture>
-  </div>
-  
-<!-- Epic Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=100&section=footer&animation=twinkling" alt="Footer"/>
-</div>
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gewili--moaaz-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/gewili-moaaz)
+[![GitHub](https://img.shields.io/badge/GitHub-AmazingMoaaz-181717?style=flat&logo=github&logoColor=white)](https://github.com/AmazingMoaaz)
