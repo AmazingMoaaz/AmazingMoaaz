@@ -90,7 +90,7 @@ I work at the intersection of security and infrastructure — securing systems, 
 
 ## 📊 GitHub Stats
 
-<img height="160" src="https://github-readme-stats.zohan.tech/api?username=AmazingMoaaz&show_icons=true&hide_border=true&bg_color=0a192f&title_color=22d3ee&icon_color=0ea5e9&text_color=ffffff&border_radius=10" alt="GitHub Stats"/>&nbsp;&nbsp;&nbsp;&nbsp;<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=AmazingMoaaz&hide_border=true&background=0a192f&stroke=0ea5e9&ring=22d3ee&fire=22d3ee&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=22d3ee&sideNums=7dd3fc&dates=94a3b8&border_radius=10" alt="GitHub Streak"/>
+<img height="160" src="https://github-readme-stats.zohan.tech/api?username=AmazingMoaaz&show_icons=true&hide_border=true&bg_color=0a192f&title_color=22d3ee&icon_color=0ea5e9&text_color=ffffff&border_radius=10" alt="GitHub Stats"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=AmazingMoaaz&hide_border=true&background=0a192f&stroke=0ea5e9&ring=22d3ee&fire=22d3ee&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=22d3ee&sideNums=7dd3fc&dates=94a3b8&border_radius=10" alt="GitHub Streak"/>
 
 ## 📫 Connect
 
