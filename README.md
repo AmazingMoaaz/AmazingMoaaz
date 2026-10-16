@@ -38,6 +38,7 @@ I work at the intersection of security and infrastructure — securing systems, 
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405e?logo=sqlite&logoColor=white)
 
 #### 🔧 Development Tools & Utilities
@@ -65,6 +66,7 @@ I work at the intersection of security and infrastructure — securing systems, 
 ![Azure](https://img.shields.io/badge/Azure-0072C6?logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMy4wNSAzSDguOUwzIDE5LjVoNC4xNXpNMTQuMyA2LjJsLTMuOSAxMC45IDcuMyA0LjRIOC4ybC0xLjEgM2guMDVIMjF6Ii8%2BPHBhdGggZD0iTTE0LjU1IDNoLTEuNUwyMSAyMC41aC0zLjN6Ii8%2BPC9zdmc%2B)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0167ff?logo=digitalocean&logoColor=white)
+![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?logo=hetzner&logoColor=white)
 
 #### 🧰 DevOps & Infrastructure
 
@@ -78,8 +80,13 @@ I work at the intersection of security and infrastructure — securing systems, 
 
 #### 🏠 Homelab & Automation
 
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?logo=proxmox&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?logo=vmware&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?logo=espressif&logoColor=white)
 ![Home Assistant](https://img.shields.io/badge/Home%20Assistant-41BDF5?logo=home-assistant&logoColor=white)
 ![Homebridge](https://img.shields.io/badge/Homebridge-491F59?logo=homebridge&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white)
 ![Pi-Hole](https://img.shields.io/badge/Pi--hole-96060C?logo=pi-hole&logoColor=white)
 ![Jellyfin](https://img.shields.io/badge/Jellyfin-000B25?logo=jellyfin&logoColor=00A4DC)
 
